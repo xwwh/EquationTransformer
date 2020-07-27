@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СanonicalFormTransformationTool", "СanonicalFormTransformationTool\СanonicalFormTransformationTool.csproj", "{D5B30F28-0E60-4F09-AFD5-DD9F0327B2BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СanonicalFormTransformationToolTests", "СanonicalFormTransformationToolTests\СanonicalFormTransformationToolTests.csproj", "{9ED67493-9A34-41D8-8C1F-F900425380BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83B8E9C6-1DB7-496C-8B44-11E6C21F91FC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B30F28-0E60-4F09-AFD5-DD9F0327B2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B30F28-0E60-4F09-AFD5-DD9F0327B2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B30F28-0E60-4F09-AFD5-DD9F0327B2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B30F28-0E60-4F09-AFD5-DD9F0327B2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED67493-9A34-41D8-8C1F-F900425380BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED67493-9A34-41D8-8C1F-F900425380BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED67493-9A34-41D8-8C1F-F900425380BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED67493-9A34-41D8-8C1F-F900425380BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33EE3489-7A8D-48A4-A924-F0863DDF3336}
+	EndGlobalSection
+EndGlobal
